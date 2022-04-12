@@ -16,4 +16,6 @@ int main(){
 	int c = ++a;
 	printf("c = %d, a = %d \n", c, a); 
 	// a = 11 (taken from the result a above) -> c = 12 | a = 12 (value increased by 1 then it returns the value)
+	
+	//*Similarly for subtraction
 }
